@@ -1,4 +1,4 @@
-# CS321-Lab04
+# Lab 4
 
 ## Lab 04: Inheritance, and Interfaces
 
